@@ -1,0 +1,29 @@
+{
+  "name": "gen_ai",
+  "version": "1.0.0",
+  "description": "learning gen ai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arijit-mondal099/genAi.git"
+  },
+  "keywords": [
+    "ai",
+    "gen ai"
+  ],
+  "author": "arijit mondal",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Arijit-mondal099/genAi/issues"
+  },
+  "homepage": "https://github.com/Arijit-mondal099/genAi#readme",
+  "dependencies": {
+    "@google/genai": "^1.38.0",
+    "dotenv": "^17.2.3",
+    "readline-sync": "^1.4.10"
+  }
+}
